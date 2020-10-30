@@ -11,7 +11,7 @@
   </parent>
 
   <artifactId>webapp</artifactId>
-  <packaging>hollyday.war</packaging>
+  <packaging>holiday.war</packaging>
   <name>webapp</name>
   <description>webapp.</description>
 
